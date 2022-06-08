@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1>Hello, I'm Lennox! <br/>
+<h2>👨‍💻 My Cyber Security Projects:</h2>
 
-<!--
-**LennoxCrockett/LennoxCrockett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b>Active Directory Home Lab</b> (https://github.com/joshmadakor1/Algorithms-Practice)
 
-Here are some ideas to get you started:
+<h2>📺 YouTube Videos</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Active Directory Home Lab Showcase](https://www.youtube.com/channel/UCPVCO_tl4mvIWll8l9GqYYA/featured)
+
+<h2> 📝 Certifications: </h2>
+
+- [CompTIA Security+](https://www.credly.com/badges/75b9085d-af11-4e6f-a3d3-0a95057495ce/public_url)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]: https://twitter.com/CrockettLennox
+[youtube]: https://www.youtube.com/channel/UCPVCO_tl4mvIWll8l9GqYYA/featured
+[linkedin]: linkedin.com/in/lennox-crockett-412565171
