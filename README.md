@@ -1,7 +1,7 @@
 <h1>Hello, I'm Lennox! <br/>
 <h2>👨‍💻 My Cyber Security Projects:</h2>
 
-- <b>Active Directory Home Lab</b> 
+- <b>[Active Directory Home Lab](https://github.com/LennoxCrockett/ActiveDirectoryLab)</b> 
 
 <h2>📺 YouTube Videos</h2>
 
