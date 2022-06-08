@@ -1,7 +1,7 @@
 <h1>Hello, I'm Lennox! <br/>
 <h2>👨‍💻 My Cyber Security Projects:</h2>
 
-- <b>Active Directory Home Lab</b> (https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Active Directory Home Lab</b> 
 
 <h2>📺 YouTube Videos</h2>
 
