@@ -3,6 +3,12 @@
 
 - <b>[Active Directory Home Lab](https://github.com/LennoxCrockett/ActiveDirectoryLab)</b> 
 
+<h2>👨‍💻 My Cyber Java Projects:</h2>
+
+- <b>[Battleship](https://github.com/LennoxCrockett/Battleship-Game)</b> 
+- <b>[Bowling Calculator](https://github.com/LennoxCrockett/Bowling-Calculator)</b> 
+
+
 <h2>📺 YouTube Videos</h2>
 
 - [Active Directory Home Lab Showcase](https://www.youtube.com/channel/UCPVCO_tl4mvIWll8l9GqYYA/featured)
