@@ -3,7 +3,7 @@
 
 - <b>[Active Directory Home Lab](https://github.com/LennoxCrockett/ActiveDirectoryLab)</b> 
 
-<h2>👨‍💻 My Cyber Java Projects:</h2>
+<h2>👨‍💻 My Javascript Projects:</h2>
 
 - <b>[Battleship](https://github.com/LennoxCrockett/Battleship-Game)</b> 
 - <b>[Bowling Calculator](https://github.com/LennoxCrockett/Bowling-Calculator)</b> 
