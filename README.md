@@ -15,14 +15,15 @@
 
 <h2> 📝 Certifications: </h2>
 
+- [CompTIA A+] (https://www.credly.com/badges/d5f2229d-6111-4be4-b3be-2ad784bbf3fe)
 - [CompTIA Security+](https://www.credly.com/badges/75b9085d-af11-4e6f-a3d3-0a95057495ce/public_url)
 - [ITIL v4 Foundations](https://www.linkedin.com/feed/update/urn:li:activity:7005931747901095937/) 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LennoxCrockett | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="LennoxCrockett | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LennoxCrockett | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/CrockettLennox
 [youtube]: https://www.youtube.com/channel/UCPVCO_tl4mvIWll8l9GqYYA/featured
