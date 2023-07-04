@@ -17,7 +17,7 @@
 
 - [CompTIA A+](https://www.credly.com/badges/d5f2229d-6111-4be4-b3be-2ad784bbf3fe)
 - [CompTIA Security+](https://www.credly.com/badges/75b9085d-af11-4e6f-a3d3-0a95057495ce/public_url)
-- [CompTIA Project+](https://www.credly.com/badges/66a1fe76-0420-41e5-a62e-7b4094cc6b86/public_url).
+- [CompTIA Project+](https://www.credly.com/badges/66a1fe76-0420-41e5-a62e-7b4094cc6b86/public_url)
 - [ITIL v4 Foundations](https://www.linkedin.com/feed/update/urn:li:activity:7005931747901095937/) 
 
 <h2> 🤳 Connect with me:</h2>
